@@ -6,13 +6,3 @@
 #define HELLORASPI_MAIN_H
 
 #endif //HELLORASPI_MAIN_H
-#include <iostream>
-
-using namespace std;
-
-int main()
-{
-    cout << "Hello World" << endl;
-
-    return 0;
-}
